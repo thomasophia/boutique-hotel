@@ -22,10 +22,10 @@ also register to reuse their personal data for future bookings or to view their 
 
 ## How the app looks like
 
-> <img src="https://user-images.githubusercontent.com/112976198/214324957-11638cc6-d528-4d55-a6c1-e75c6653c1f9.mov" width="300"/>
+https://user-images.githubusercontent.com/112976198/214324957-11638cc6-d528-4d55-a6c1-e75c6653c1f9.mov
 
-> <img src="https://user-images.githubusercontent.com/112976198/214324995-ed663873-a40a-480d-bdb4-5a8aa82838a8.mov" width="300"/>
+https://user-images.githubusercontent.com/112976198/214324995-ed663873-a40a-480d-bdb4-5a8aa82838a8.mov
 
-> <img src="https://user-images.githubusercontent.com/112976198/214325013-cdc2f6f9-5f81-4846-966b-2a36670a1e1b.mov" width="300"/>
+https://user-images.githubusercontent.com/112976198/214325013-cdc2f6f9-5f81-4846-966b-2a36670a1e1b.mov
 
-> <img src="https://user-images.githubusercontent.com/112976198/214325028-018f965a-0795-4e87-81a3-f197e5729cb8.mov" width="300"/>
+https://user-images.githubusercontent.com/112976198/214325028-018f965a-0795-4e87-81a3-f197e5729cb8.mov
